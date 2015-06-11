@@ -1,0 +1,1 @@
+Copy these files over to the corresponding directories in the bitcon-wallet/wallet/res directories
